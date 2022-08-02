@@ -1,0 +1,3 @@
+NPC|Kenishi|7|..\Image\NPC\Kenishi\Kenishi%d.png
+NPC|Linda|12|..\Image\NPC\Linda\Linda%d.png
+NPC|Quest|12|..\Image\NPC\Quest\Quest%d.png
